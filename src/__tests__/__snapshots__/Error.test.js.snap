@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error has a valid snapshot 1`] = `
+<div
+  className="columns is-centered"
+>
+  <div
+    className="column is-narrow"
+  >
+    <div
+      className="notification is-danger is-light"
+    >
+      Something went wrong.
+    </div>
+  </div>
+</div>
+`;
